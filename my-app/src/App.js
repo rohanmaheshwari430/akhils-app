@@ -13,7 +13,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Welcome to Nikhils's App!
+          Welcome to Akhils's App!
         </p>
         <button onClick={() => setCount(count + 1)}>Increase</button>
         <p> {count} </p>
