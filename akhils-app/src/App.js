@@ -24,7 +24,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Google Search
         </a>
         <a
           className="App-link"
